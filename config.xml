@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "com.tckansas.brk"
+        version = "2.0.0">
+
+    <name>TCK - BRK Quick Reference 2014</name>
+
+    <description>
+        Information about TCK - The Trust Company of Kansas' 2014 Berkshire Hathaway trip.
+    </description>
+
+    <author href="http://www.TCKansas.com" email="Khodson@TCKansas.com">
+        TCK - The Trust Company of Kansas
+    </author>
+
+
+    <gap:plugin name="org.apache.cordova.core.inappbrowser" />
+</widget>
